@@ -26,7 +26,7 @@ Make sure you have the following installed:
 ###1. Clone the repository to your local machine:
 
    ```
-   git clone https://gitlab.com/mrpatil20181/react-to-do-list-application.git
+   git clone <Repo link>
 ```
 ###2. Navigate into the project directory:
 
